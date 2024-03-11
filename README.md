@@ -1,7 +1,7 @@
 # SpyCare
 
 
-SpyCare is a phishing tool available for Termux users.
+SpyCare is a phishing tool available for Termux users..
 
 ## [+] Installation and Usage
 * $ apt update
