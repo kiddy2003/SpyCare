@@ -1,4 +1,4 @@
-# SpyCare
+# SPYCARE
 
 
 SpyCare is a phishing tool available for Termux users..
