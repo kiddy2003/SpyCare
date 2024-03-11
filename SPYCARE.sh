@@ -130,7 +130,7 @@ echo -e "\e[1;31m
  ___) |  __/ | || |___ / ___ \|  _ <| |___ 
 |____/|_|    |_| \____/_/   \_\_| \_\_____|                                                                                                                                                                                  \e[0m"
 printf "\n"
-printf "\e[1;32m       -->\e[0m\e[1;95m MaxPhisher was coded by:  PEXKIDDY\e[0m\e[1;32m<--\e[0m\n"
+printf "\e[1;32m       -->\e[0m\e[1;95m SPYCARE was coded by:  PEXKIDDY\e[0m\e[1;32m<--\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m!! Disclaimer: Developers assume no liability and are not
 responsible for any misuse or damage caused by SPYCARE. Use SPYCARE for educational purposes only!! \e[0m\n"
